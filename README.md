@@ -1,17 +1,25 @@
-# first_app
+# 🎲 DiceRoll - Flutter App
 
-A new Flutter project.
+A simple Flutter application that simulates rolling a dice.
 
-## Getting Started
+The app displays a dice image and generates a random number each time the user presses the **Roll Dice** button.
 
-This project is a starting point for a Flutter application.
+This project was created as a beginner Flutter exercise to practice widgets, state management, and user interaction.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clean minimal UI
+- Dice rolling animation logic using random numbers
+- Image changes dynamically based on dice result
+- StatefulWidget usage
+- Beginner-friendly Flutter project
+
+---
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="screenshots/screenshot1.jpg" width="300"/>
+</p>
